@@ -1,6 +1,6 @@
 import random
 
-#I Julia Knez, 001249434, certify that this work is my own effort and that I have not allowed anyone else to copy from it.
+#I Julia Knez, certify that this work is my own effort and that I have not allowed anyone else to copy from it.
 
 amount = random.randint(0,20) + round( random.randint(0,100)/100, 2 )
 
